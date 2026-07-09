@@ -4,7 +4,7 @@ XLChess is a modern chess landing page built with React and TypeScript. The goal
 
 ## Live Demo
 
-🔗 https://xl-chess-hero.vercel.app
+🔗 https://xlchess-dun.vercel.app/
 
 ---
 
